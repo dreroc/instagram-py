@@ -9,7 +9,7 @@
  
  <h1 align="center" > Instagram-Py </h1>
  
- <center>
+ <p align=center>
  <a href="https://github.com/antony-jr/instagram-py/issues">
  <img src="https://img.shields.io/github/issues/antony-jr/instagram-py.svg?style=flat-square" / >
  </a>
@@ -28,7 +28,7 @@
  
  <a class="badge-align" href="https://www.codacy.com/app/antony-jr/instagram-py?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=antony-jr/instagram-py&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/352d5096b26e46faaa6b7434ad5afed6"/></a>
  
- </center>
+ </p>
 
   
   
