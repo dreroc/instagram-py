@@ -8,8 +8,30 @@
     
  
  <h1 align="center" > Instagram-Py </h1>
+ 
+ <center>
+ <a href="https://github.com/antony-jr/instagram-py/issues">
+ <img src="https://img.shields.io/github/issues/antony-jr/instagram-py.svg?style=flat-square" / >
+ </a>
+ 
+ <a href="https://github.com/antony-jr/instagram-py/network">
+ <img src="https://img.shields.io/github/forks/antony-jr/instagram-py.svg?style=flat-square" / >
+ </a>
+ 
+ <a href="https://github.com/antony-jr/instagram-py/stargazers">
+ <img src="https://img.shields.io/github/stars/antony-jr/instagram-py.svg?style=flat-square" / >
+ </a>
+ 
+ <a href="https://github.com/antony-jr/instagram-py/blob/master/LICENSE">
+ <img src="https://img.shields.io/github/license/antony-jr/instagram-py.svg?style=flat-square" / >
+ </a>
+ 
+ <a class="badge-align" href="https://www.codacy.com/app/antony-jr/instagram-py?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=antony-jr/instagram-py&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/352d5096b26e46faaa6b7434ad5afed6"/></a>
+ 
+ </center>
 
-
+  
+  
 | This project was started as a **POC** and then evolved into something. My previous username was **deathsec** on github
 | and I created this script back then , Right after I deleted my username from **github** , a another
 | guy just took that and hosted a cloned version of instagram-py in a new repo. Because I kept the pypi package pointing
