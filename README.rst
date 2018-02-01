@@ -16,10 +16,11 @@
 | and I created this script back then , Right after I deleted my username from **github** , a another
 | guy just took that and hosted a cloned version of instagram-py in a new repo. Because I kept the pypi package pointing
 | to this fake **deathsec** , A lot users believed that , the new **deathsec** was the original author which is not.
-| Since a lot users or a few liked instagram-py , I decided to revive it and give it a long time support ( **LTS** ).
+| Since a lot of users or a few liked instagram-py , I decided to revive it and give it a long time support ( **LTS** ).
 | Now I'm building Instagram-Py as a professional tool for penetration testers.
 |
 | If you want to see if I am the real deal then you may do so by upgrading your instagram-py version through pip.
+| You can also look into the **git log** for initial commit on thoose cloned or fake repos. ( it will have my personel email ).
 
 
 ------
