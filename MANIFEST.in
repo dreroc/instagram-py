@@ -6,6 +6,8 @@
 # 		 python package.
 
 exclude .gitignore
+exclude ./Instagram-Py/__pycache__
+exclude ./Instagram-Py/colors/__pycache__
 exclude .coverage
 exclude preview.png
 exclude .travis.yml
