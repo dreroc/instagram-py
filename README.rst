@@ -1,18 +1,16 @@
 .. image:: .img/poster.png
 
+
+    | :briefcase: The Official Instagram-Py repo. A professional tool to :8ball: brute force instagram :camera_flash: accounts with less resource
+    | :gift: as possible , Written in Python :snake: and made with :heart:
+
+    -- Antony Jr.
+    
+
 ==============
  Instagram-Py 
 ==============
 
-    | Instagram-py performs slick brute force attack on Instagram without any type of password limiting
-    | and also resumes your attack in ease. 
-    
-    --Antony Jr.
-
-    
--------
- Why ?
--------
 
 | This project was started as a **POC** and then evolved into something. My previous username was **deathsec** on github
 | and I created this script back then , Right after I deleted my username from **github** , a another
