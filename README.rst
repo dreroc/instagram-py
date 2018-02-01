@@ -358,7 +358,7 @@ If you want to do something that stands out then you can click the **donate** bu
 I will make sure that I stay healthy and keep on to do my work. :briefcase: Supporting me means supporting all of my projects , So   
 you are like **Tony Stark** :heart: who backs **Spider-Man**! Thank you for your extra care! :dog:   
 
-You can also tweet about me on twitter , get connected with me [@antonyjr0](https://twitter.com/antonyjr0)
+You can also tweet about me on twitter , get connected with me here -> https://twitter.com/antonyjr0
 
 Thank You! :smiley_cat:
 
