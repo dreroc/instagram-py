@@ -338,6 +338,32 @@ This is a simple script to conduct a bructe force attack using instagram-py as a
  exit(0) 
  
 
+
+=========
+Support
+=========
+
+If you think that this project is **cool** then you can give it a :star: or :fork_and_knife: it if you want to improve it with me. I really :heart: stars though!   
+
+.. raw:: html
+
+ <p align="center">
+     <a href="https://liberapay.com/antonyjr/donate">
+        <img src="https://liberapay.com/assets/widgets/donate.svg">
+     </a>
+ </p>
+
+
+If you want to do something that stands out then you can click the **donate** button at the top to make a monthly donation , So   
+I will make sure that I stay healthy and keep on to do my work. :briefcase: Supporting me means supporting all of my projects , So   
+you are like **Tony Stark** :heart: who backs **Spider-Man**! Thank you for your extra care! :dog:   
+
+You can also tweet about me on twitter , get connected with me [@antonyjr0](https://twitter.com/antonyjr0)
+
+Thank You! :smiley_cat:
+
+
+
 =============
    License
 =============
