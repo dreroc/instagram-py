@@ -1,6 +1,4 @@
-
-.. image: .img/poster.png
-
+.. image:: .img/poster.png
 
 ==============
  Instagram-Py 
